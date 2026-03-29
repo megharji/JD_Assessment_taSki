@@ -46,8 +46,8 @@ npm run dev
 
 ## 🌐 Deployment
 
-Frontend: (Vercel link)
-Backend: (Render link)
+Frontend: seatify-h5xhk32ul-meghas-projects-39d4086d.vercel.app (Vercel link)
+Backend: https://seatify-backend.onrender.com (Render link)
 
 
 ---
